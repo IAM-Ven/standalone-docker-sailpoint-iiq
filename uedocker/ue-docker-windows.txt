@@ -43,7 +43,7 @@ Build and Start the Environment:
 
 	If you get errors about port 80 and access denied, see this possible explaination:
 	    https://answers.microsoft.com/en-us/windows/forum/windows_10-networking/bug-system-process-system-and-compressed-memory/6df20c19-53b9-4b86-bccc-2b51c191b9d5
-	    Run NET stop HTTP as Admin to find all the services that are using  port 80
+	    Run NET stop HTTP as Admin to find and stop all the services that are using port 80
 
 Open Notepad as Administrator
 	Open c:\windows\system32\drivers\etc\hosts
